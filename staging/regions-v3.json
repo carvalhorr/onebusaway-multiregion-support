@@ -236,7 +236,7 @@
         "stopInfoUrl": null, 
         "active": true, 
         "facebookUrl": "", 
-        "obaBaseUrl": "http://buseta.wmata.com/onebusaway-api-webapp/", 
+        "obaBaseUrl": "https://buseta.wmata.com/onebusaway-api-webapp/", 
         "id": 4, 
         "experimental": false, 
         "regionName": "Washington, D.C."
@@ -431,7 +431,7 @@
         "stopInfoUrl": null, 
         "active": true, 
         "facebookUrl": "", 
-        "obaBaseUrl": "http://realtime.sdmts.com/api/", 
+        "obaBaseUrl": "https://realtime.sdmts.com/api/", 
         "id": 11, 
         "experimental": false, 
         "regionName": "San Diego MTS"
